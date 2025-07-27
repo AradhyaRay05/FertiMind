@@ -1,9 +1,8 @@
-# 🌱 FertiMind  
-### *Smart Fertilizer Advisor Using AI*
+# 🌱 FertiMind - Smart Fertilizer Advisor Using AI
 
 ---
 
-## 🚀 What the Project Delivers
+## 🎯 Project Goal
 
 **FertiMind** is a machine learning–based web application that predicts the most suitable fertilizer based on soil and environmental conditions. It simplifies fertilizer decision-making for farmers and agricultural planners, helping improve yield, reduce wastage, and support smart farming practices.
 
@@ -40,7 +39,7 @@ The prediction is done using a **Decision Tree Classifier**, and the app is depl
 - Saved the trained model and scaler using **Pickle** for deployment
 
 ### 3. 📈 Evaluation Metrics
-- **Accuracy Score**: `95.38%` on the test set
+- **Accuracy Score**: Achieved approximately `100%` on the test set
 - Model was evaluated using:
   - Train-test split validation
   - Accuracy as the primary metric
