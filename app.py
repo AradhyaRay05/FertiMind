@@ -3,10 +3,10 @@ import numpy as np
 import pickle
 import pandas as pd
 
-with open(r'D:\Education\Coding\Machine Learning\Machine Learning Projects\Fertilizer Recommendation System\model.pkl', 'rb') as f:
+with open('model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-with open(r'D:\Education\Coding\Machine Learning\Machine Learning Projects\Fertilizer Recommendation System\scaler.pkl', 'rb') as f:
+with open('scaler.pkl', 'rb') as f:
     sc = pickle.load(f)
 
 st.title("Fertilizer Prediction")
