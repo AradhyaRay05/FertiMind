@@ -69,16 +69,16 @@ The prediction is done using a **Decision Tree Classifier**, and the app is depl
 
 ```bash
 FertiMind/
-├── Dataset/                              # Folder containing the dataset
-│   └── Fertilizer Prediction.csv           # Main dataset used for training the model
-├── .gitignore                            # Prevents Git from tracking unnecessary files
-├── Fertilizer_Recommendation_System.ipynb  # Jupyter notebook for EDA & model building
-├── LICENSE                               # Allows reuse, with attribution, no warranty
-├── README.md                        # Project documentation
-├── app.py                           # Streamlit app for frontend and prediction
-├── model.pkl                        # Trained Decision Tree model
-├── requirements.txt                 # Python dependencies
-└── scaler.pkl                       # StandardScaler object used for preprocessing
+├── Dataset/                                 # Folder containing the dataset
+│   └── Fertilizer Prediction.csv            # Main dataset used for training the model
+├── .gitignore                               # Prevents Git from tracking unnecessary files
+├── Fertilizer_Recommendation_System.ipynb   # Jupyter notebook for EDA & model building
+├── LICENSE                                  # Allows reuse, with attribution, no warranty
+├── README.md                                # Project documentation
+├── app.py                                   # Streamlit app for frontend and prediction
+├── model.pkl                                # Trained Decision Tree model
+├── requirements.txt                         # Python dependencies
+└── scaler.pkl                               # StandardScaler object used for preprocessing
 ```
 ---
 
