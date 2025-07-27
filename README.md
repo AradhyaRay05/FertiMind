@@ -80,3 +80,29 @@ FertiMind/
 └── README.md                        # Project documentation
 ```
 ---
+
+## 🔍 Features
+
+- Intuitive web interface for quick fertilizer prediction
+- Selectable soil and crop types
+- Real-time ML-based recommendation
+- Simple UI suitable for educational or prototype use
+
+---
+
+## 🌱 Future Enhancements
+
+- Add confusion matrix and precision/recall evaluation
+- Use location-based environmental data (e.g., rainfall, region)
+- Add multilingual support for farmers in different regions
+- Enhance model with deep learning or ensemble methods
+- Mobile-responsive or offline Android version
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – feel free to use, share, and modify with attribution.
+
+---
+
