@@ -1,0 +1,1 @@
+# FertiMind---Smart-Fertilizer-Advisor-Using-AI
