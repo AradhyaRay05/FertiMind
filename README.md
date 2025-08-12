@@ -103,7 +103,7 @@ FertiMind/
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – feel free to use, share, and modify with attribution.
+This project is licensed under the [MIT License](LICENSE) – feel free to use, share, and modify with attribution.
 
 ---
 
